@@ -816,6 +816,10 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-center {
+  background-position: center;
+}
+
 .p-1 {
   padding: 0.25rem;
 }
